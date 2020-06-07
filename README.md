@@ -5,7 +5,8 @@ All models should be able to run with the correct dependencies installed and by 
 ## Recommender Systems
 We have designed two item similarity models, two user-similarity models, and one hybrid user-similarity model.
 
-The user-similarity and hybrid user-similarity recommenders are accessible from the 'User Similarity Recommender' notebook.
+The user-similarity and hybrid user-similarity recommenders are accessible from the 'User Similarity Recommender' notebook.\
+The movie-cosine similarity and correlation based recommenders are accessible from the "Item-Based Cosine Similarity& Correlation - Finding Similar Movies" notebook
 
 ## Rating Prediction Models
 We have designed an Item-Item Collaborative Filtering (Weighted-Average) model, a Gradient Boosting (Ensemble Learning) model and a Latent Factor (Matrix Factorisation) model.
