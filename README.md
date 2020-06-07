@@ -10,5 +10,5 @@ The user-similarity and hybrid user-similarity recommenders are accessible from 
 ## Rating Prediction Models
 We have designed an Item-Item Collaborative Filtering (Weighted-Average) model, a Gradient Boosting (Ensemble Learning) model and a Latent Factor (Matrix Factorisation) model.
 
-The Item-Item Collaborative Filtering model is aceesible from the 'Item-Item Prediction' notebook.
+The Item-Item Collaborative Filtering model is aceesible from the 'Item-Item Prediction' notebook. \
 The Gradient Boosting model is accessible from the 'XGBoost Rating Classifier' notebook.
